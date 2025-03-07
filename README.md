@@ -1,6 +1,6 @@
 # Fédération des locataires d’habitations à loyer modique du Québec
 
-## Développeurs du Grenier
+## Développeurs du Grenier (equipe qui à réaliser ce projet)
 
 * Kenza El Harrif - Designer et QA
 * Joshua Gonzalez-Barrera - PO et Scrum Master
